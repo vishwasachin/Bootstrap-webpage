@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.carousel-item{
+    width: 100%;
+    height: 90vh;
+}
+
+.scrol{
+    margin-top:-6px;
+    padding-left: 72px;
+    padding-right: 72px;
+    min-width: 60%;
+}
+
+.offer_style{
+    background: #a6dcef;
+}
+footer p{
+    margin-bottom: 0;
+}
+
